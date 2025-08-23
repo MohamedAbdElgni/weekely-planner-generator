@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Weekly Planner">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect x="4" y="8" width="56" height="48" rx="8" ry="8" fill="url(#g1)"/>
+  <!-- Header bar -->
+  <rect x="4" y="8" width="56" height="10" rx="8" ry="8" fill="rgba(255,255,255,0.85)"/>
+  <!-- Rings -->
+  <circle cx="14" cy="13" r="2" fill="#0F172A"/>
+  <circle cx="24" cy="13" r="2" fill="#0F172A"/>
+  <circle cx="34" cy="13" r="2" fill="#0F172A"/>
+  <circle cx="44" cy="13" r="2" fill="#0F172A"/>
+  <circle cx="54" cy="13" r="2" fill="#0F172A"/>
+  <!-- Grid (Mon-Fri) -->
+  <g fill="none" stroke="rgba(255,255,255,0.7)" stroke-width="2">
+    <line x1="10" y1="24" x2="54" y2="24"/>
+    <line x1="10" y1="32" x2="54" y2="32"/>
+    <line x1="10" y1="40" x2="54" y2="40"/>
+    <line x1="10" y1="48" x2="54" y2="48"/>
+  </g>
+  <!-- Day columns -->
+  <g fill="none" stroke="rgba(255,255,255,0.7)" stroke-width="2">
+    <line x1="18" y1="20" x2="18" y2="52"/>
+    <line x1="26" y1="20" x2="26" y2="52"/>
+    <line x1="34" y1="20" x2="34" y2="52"/>
+    <line x1="42" y1="20" x2="42" y2="52"/>
+    <line x1="50" y1="20" x2="50" y2="52"/>
+  </g>
+  <!-- Accent check marks to convey planning -->
+  <path d="M14 45 l3 3 l6 -7" stroke="#10B981" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
