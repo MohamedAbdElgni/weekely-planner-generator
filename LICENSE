@@ -1,0 +1,56 @@
+Non-Commercial Software License (NCSL)
+
+Version 1.0 — 2025-08-23
+
+Copyright (c) 2025 The Project Owner
+All rights reserved.
+
+1. Definitions
+   "Software" means the source code, object code, assets, documentation, and any accompanying files in this repository.
+   "Non-Commercial Use" means any use that is not intended for or directed toward commercial advantage or monetary compensation, including internal personal use, academic or research use, and open sharing without charging fees.
+   "Commercial Use" means any use, distribution, provision of services, or deployment of the Software or Derivative Works for commercial advantage or monetary compensation, including without limitation: selling, licensing, hosting as a paid service, incorporating into a paid product or service, or using in any manner that generates direct or indirect revenue or is performed on behalf of a for-profit entity.
+   "Derivative Work" means any work based upon or incorporating all or part of the Software, including modifications, translations, adaptations, or any other changes.
+   "Licensor" means the Project Owner (the owner of this repository).
+
+2. Grant of Permission for Non-Commercial Use
+   Subject to the terms and conditions of this License, the Licensor grants you a worldwide, royalty-free, non-exclusive, non-transferable, and revocable permission to:
+   - use, copy, modify, and create Derivative Works of the Software; and
+   - distribute the Software and Derivative Works,
+   provided that all such activities are solely for Non-Commercial Use and you comply with Section 4 (Attribution and Notice) and Section 5 (Redistribution Conditions).
+
+3. Prohibition on Commercial Use
+   Any Commercial Use of the Software or Derivative Works, in whole or in part, is strictly prohibited without the Licensor’s prior express written permission. To request a commercial license, contact the Licensor.
+
+4. Attribution and Notice
+   For any permitted use or distribution, you must:
+   - retain in all copies of the Software and Derivative Works the above copyright notice and this License;
+   - include a prominent attribution identifying the Licensor as the original author (e.g., "Portions © 2025 The Project Owner"); and
+   - include a link or reference to the original repository.
+
+5. Redistribution Conditions
+   If you distribute the Software or any Derivative Work for Non-Commercial Use, you must:
+   - distribute it under the terms of this License or terms no less protective of the Licensor’s rights; and
+   - make the complete License text readily available with the distribution.
+
+6. No Trademark License
+   This License does not grant you rights in the Licensor’s trademarks, trade names, logos, or branding.
+
+7. No Warranty
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. YOU BEAR THE RISK OF USING IT.
+
+8. Limitation of Liability
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL THE LICENSOR BE LIABLE FOR ANY DAMAGES OR CLAIMS ARISING OUT OF OR RELATED TO THE SOFTWARE OR THIS LICENSE, WHETHER IN CONTRACT, TORT, OR OTHERWISE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+9. Termination
+   This License automatically terminates if you breach its terms. Upon termination, you must cease all use and distribution of the Software and destroy all copies in your possession or control. Sections 6–8 survive termination.
+
+10. Governing Law
+   This License will be governed by and construed in accordance with the laws of the jurisdiction of the Licensor unless otherwise required by applicable law.
+
+11. Commercial Licensing
+   Commercial licenses and permissions may be available from the Licensor upon request.
+
+12. Entire Agreement
+   This License constitutes the entire agreement concerning the Software between you and the Licensor and supersedes any prior agreements or understandings relating to the Software’s licensing.
+
+If you need a commercial license, please contact the repository owner.

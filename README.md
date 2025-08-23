@@ -74,4 +74,4 @@ npm run preview
 - Modify default configuration in `PlannerGenerator.tsx` initial state.
 
 ## License
-This project is provided as‑is. Add your preferred license here if applicable.
+This project is licensed for Non-Commercial Use only under the terms in the LICENSE file. No commercial use, distribution, or offering as a paid service is permitted without the explicit prior written permission of the project owner. See LICENSE for full terms.
