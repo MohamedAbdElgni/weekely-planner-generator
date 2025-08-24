@@ -16,6 +16,9 @@ Generate beautiful, print‑ready weekly planners as PDFs with customizable layo
   - Reflection page after the week
 - Live preview and clean UI built with React and shadcn‑ui
 
+## Live Demo
+- Deployed app: https://weekely-planner-generator-nvkgjuryz-mohamedabdelganis-projects.vercel.app/
+
 ## Tech Stack
 - React + TypeScript
 - Vite
